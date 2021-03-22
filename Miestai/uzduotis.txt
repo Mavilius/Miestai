@@ -1,0 +1,7 @@
+
+aprasyti 9 miestus
+ivesti tu miestu parametrus tokius kaip: gyventoju skaicius, rajonas kur yra, plotas.
+tada apskaiciuoti tu miestu tankuma.
+ir isrykiuot is eiles
+tada sukurt git repozitorija
+uzduotis.txt pavadinimu

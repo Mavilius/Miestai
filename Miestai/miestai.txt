@@ -1,0 +1,1 @@
+Vilnius,Vilniausraj,700000,580000,Kaunas,Kaunoraj,381000,289380,Klaipeda,Klaipedosraj,209000,149157,Siauliai,Siauliuraj,141784,101514,Panevezys,Panevezioraj,124412,85000,Alytus,Alytausraj,75775,49888,Marijampole,Marijampolesraj,53772,34968,Mazeikiai,Mazeikiuraj,51067,32477,Jonava,Jonavosraj,41163,26427
